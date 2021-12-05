@@ -69,8 +69,7 @@
 											'".$ket."',
 											'".$rename."', 
 											null,
-											null,
-											'".$_SESSION['uid']."'
+											null
 								)");
 
 								if($simpan){
